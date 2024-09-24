@@ -1,0 +1,5 @@
+asyncua==1.0.1
+awscrt==0.16.7
+awsiotsdk==1.11.3
+boto3==1.26.60
+requests==2.28.2
