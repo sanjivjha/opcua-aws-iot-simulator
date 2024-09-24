@@ -1,4 +1,3 @@
-# opcua-aws-iot-simulator
 # OPC-UA to AWS IoT Core Simulator
 
 This project simulates an OPC-UA server that generates sensor data and publishes it to AWS IoT Core. It's designed to demonstrate the integration between OPC-UA systems and AWS IoT, which is common in industrial IoT scenarios.
